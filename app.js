@@ -36,3 +36,15 @@ switch(choice){
 };
 
 //write the actual message function that works as the main function.
+
+let userHappy = false
+
+do{
+    if(userHappy === false){
+
+    }
+    else{
+        
+    }
+}
+while(userHappy === false)
